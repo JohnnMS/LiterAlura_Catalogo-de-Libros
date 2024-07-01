@@ -1,0 +1,1 @@
+ALTER TABLE libros DROP COLUMN id_idioma;
