@@ -83,6 +83,8 @@ Este proyecto utiliza las siguientes bibliotecas y frameworks, cada uno con sus 
 
 ### Demo
 
+[![Alt text](https://img.youtube.com/vi/BMAsHdx2myw/0.jpg)](https://www.youtube.com/watch?v=BMAsHdx2myw)
+
 https://youtu.be/BMAsHdx2myw
 
 ### Autor
