@@ -41,7 +41,7 @@ identificador Gutendex y, por supuesto, regresar al menú principal si lo desea.
 ![image](https://github.com/JohnnMS/LiterAlura_Catalogo-de-Libros/assets/99614055/af343b98-1919-449a-948f-86b470d198cc)
 
 - Opción 2: La aplicación permite desplegar un listado completo de los libros almacenados en la base de datos. Dentro de esa información
-se incluye una URL para la lectura del título, así como información adicional acerca del libro.
+se incluye una URL para la lectura del ejemplar, así como información adicional acerca del libro.
 
 ![image](https://github.com/JohnnMS/LiterAlura_Catalogo-de-Libros/assets/99614055/dfa5d060-f87d-47b8-a82f-7422fdf0243d)
 
