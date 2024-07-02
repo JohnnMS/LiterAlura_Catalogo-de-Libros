@@ -76,7 +76,7 @@ Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENSE](L
 ## Licencias de Dependencias
 
 Este proyecto utiliza las siguientes bibliotecas y frameworks, cada uno con sus respectivas licencias:
-
+- **JDK de Java 17**: Disponible bajo la [Licencia Pública General de GNU, versión 2, con la excepción de la clase de biblioteca](https://openjdk.java.net/legal/gplv2+ce.html).
 - **Spring Boot**: Licenciado bajo la [Licencia Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0).
 - **Spring Data**: Licenciado bajo la [Licencia Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0).
 - **PostgreSQL**: Licenciado bajo la [Licencia PostgreSQL](https://www.postgresql.org/about/licence/).
