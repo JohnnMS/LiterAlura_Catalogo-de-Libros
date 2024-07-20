@@ -1,4 +1,4 @@
-# CHALLENGE 3: LiterAlura_Catálogo-de-Libros
+# CHALLENGE 3: LiterAlura_Catálogo-de-Libros 📚
 Versión final -1.0- del tercer challenge desarrollado en el proceso de formación con Alura LATAM & Oracle Next Education.
 
 ## DESCRIPCIÓN.
