@@ -64,8 +64,8 @@ se incluye, si está disponible, la fecha de nacimiento y, si aplica, la fecha d
 
 
 ### Acceso al proyecto
-✅ La aplicación principal se aloja e la ruta ...\src\main\java\com\monsa\alura_challenge\LiterAlura\API\ApiApplication.java <br>
-✅ Se debe crear una base de datos en Postgres con el nombre, usuario y clave de su preferencia. Para el uso de la aplicación,
+⚙️ La aplicación principal se aloja e la ruta ...\src\main\java\com\monsa\alura_challenge\LiterAlura\API\ApiApplication.java <br>
+⚙️ Se debe crear una base de datos en Postgres con el nombre, usuario y clave de su preferencia. Para el uso de la aplicación,
 se deben crear cuatro variables de entorno en su sistema operativo preferido con los siguientes nombres (sin comillas):
 "DB_HOST", "DB_NAME_LA", "DB_USER", "DB_PSW", junto con la información correspondiente.<br>
 
@@ -76,10 +76,10 @@ Este proyecto está licenciado bajo la Licencia MIT - ver el archivo [LICENSE](L
 ## Licencias de Dependencias
 
 Este proyecto utiliza las siguientes bibliotecas y frameworks, cada uno con sus respectivas licencias:<br>
-✅ **JDK de Java 17**: Disponible bajo la [Licencia Pública General de GNU, versión 2, con la excepción de la clase de biblioteca](https://openjdk.java.net/legal/gplv2+ce.html).<br>
-✅ **Spring Boot**: Licenciado bajo la [Licencia Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0).<br>
-✅ **Spring Data**: Licenciado bajo la [Licencia Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0).<br>
-✅ **PostgreSQL**: Licenciado bajo la [Licencia PostgreSQL](https://www.postgresql.org/about/licence/).<br>
+- **JDK de Java 17**: Disponible bajo la [Licencia Pública General de GNU, versión 2, con la excepción de la clase de biblioteca](https://openjdk.java.net/legal/gplv2+ce.html).<br>
+- **Spring Boot**: Licenciado bajo la [Licencia Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0).<br>
+- **Spring Data**: Licenciado bajo la [Licencia Apache 2.0](https://www.apache.org/licenses/LICENSE-2.0).<br>
+- **PostgreSQL**: Licenciado bajo la [Licencia PostgreSQL](https://www.postgresql.org/about/licence/).<br>
 
 ### Demo
 
