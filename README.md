@@ -5,6 +5,7 @@ Tercer challenge desarrollado en el proceso de formación con Alura LATAM & Orac
 ![Static Badge](https://img.shields.io/badge/Language-Java-%23D21404?logoColor=white&logoSize=auto&labelColor=grey)
 ![Static Badge](https://img.shields.io/badge/Latest-v1.0.0-blue?logoColor=white&logoSize=auto&labelColor=grey)
 ![Static Badge](https://img.shields.io/badge/License-MIT-%23ED7117?logoColor=white&logoSize=auto&labelColor=grey)
+![Static Badge](https://img.shields.io/badge/PostgreSQL-%23003791?logo=postgresql&logoColor=white)
 
 ## DESCRIPCIÓN.
 El reto "LiterAlura" es una aplicación diseñada para consultar y almacenar en una base de datos local información acerca 
@@ -12,7 +13,7 @@ de títulos literarios. La aplicación se desarrolla como parte del proceso de f
 Con su desarrollo se busca aplicar los conocimientos adquiridos en el ámbito de la programación y formación como Backend.
 
 LiterAlura, se desarrolló en el lenguaje de programación Java 17 como base, usando distintas dependencias como Maven, Spring Boot,
-Spring Data y Postgres. Adicionalmente, la aplicación realiza consultas y hace uso de datos de una API llamada "Gutendex", 
+Spring Data y PostgreSQL. Adicionalmente, la aplicación realiza consultas y hace uso de datos de una API llamada "Gutendex", 
 la cual fue lanzada alrededor del año 2018. Esta API nace como iniciativa del "Proyecto Gutenberg", siendo una biblioteca digital
 que ofrece más de 60 mil libros electrónicos gratuitos, como los clásicos de la literatura que están en el dominio público.
 
